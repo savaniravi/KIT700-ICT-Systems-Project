@@ -1,2 +1,9 @@
-# KIT700-ICT-Systems-Project
-Capstone project involving design and implementation of a secure IoT system. Led architecture definition, deployment, and documentation.
+KIT700 ICT Systems Project
+Overview
+Capstone on secure IoT design and deployment.
+Technologies Used
+Python, Linux, AWS IoT, MQTT
+My Contributions
+	•	Led architecture and deployment; integrated security.
+Key Outcomes
+	•	Functional IoT prototype with security considerations.
